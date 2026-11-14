@@ -1,0 +1,5 @@
+/target/
+/test-ledger/
+
+# Rust backup files created by editors
+**/*.rs.bk
